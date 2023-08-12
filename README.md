@@ -7,6 +7,7 @@ The paper presents a solution to the challenges posed by complex deep CNNs in co
 The SCNNB offers an efficient alternative, utilizing batch normalization for quicker training convergence and accuracy improvement. With only four layers featuring small convolutional kernels, the SCNNB maintains performance while significantly reducing complexity. Experimental results demonstrate its ability to quickly learn data features, achieving 93.69% accuracy on fashion-MNIST and 99.42% accuracy on MNIST.
 
 Architecture structure for our SCNNB model:
+
 ![Architecture structure for SCNNB model](https://github.com/K-Hooshanfar/Shallow_convolutional_NN_for_image_classification/assets/83825004/b51a6f98-0992-40b7-a484-0d04c0f9489a)
 
 # Results
@@ -17,17 +18,19 @@ Architecture structure for our SCNNB model:
 | Scnnb_a  | 99.41%   | 74.02%   | 93.24%   |
 | Scnnb_b  | 99.43%  | 74.74%  | 93.5%  |
 
-Accuracy for Cifar10:
+Accuracy on Test set for Cifar10:
 
-![df79fe94-3da4-4849-a628-456670e7845a](https://github.com/K-Hooshanfar/Shallow_convolutional_NN_for_image_classification/assets/83825004/37af4659-fb92-4836-bfd0-a88b514b1a6a)
+![b7803a82-f36a-4d9f-a2ae-cab4add20483](https://github.com/K-Hooshanfar/Shallow_convolutional_NN_for_image_classification/assets/83825004/f504a45d-cb12-44d1-8341-541c1f72faa8)
 
-Accuracy for Fashion_Mnist:
 
-![ee2c2a40-3c9c-4ac2-b90c-d3ceca5b1ace](https://github.com/K-Hooshanfar/Shallow_convolutional_NN_for_image_classification/assets/83825004/89f95f8f-7767-4ea1-a296-4a880d7d906e)
+Accuracy on Test set for Fashion_Mnist:
 
-Accuracy for Mnist:
+![66b40653-f092-4f64-83e5-2830ea9a11c9](https://github.com/K-Hooshanfar/Shallow_convolutional_NN_for_image_classification/assets/83825004/4fc5d9e7-1ed6-423b-bb30-d04d1e6ccda9)
 
-![37b2db60-48a7-416c-9747-2bc86b5f8be0](https://github.com/K-Hooshanfar/Shallow_convolutional_NN_for_image_classification/assets/83825004/655018f1-6eca-4ffc-b9c9-72367c90fa68)
+Accuracy on Test set for Mnist:
+
+![9759b394-6db5-455b-a1dc-85c746490acf](https://github.com/K-Hooshanfar/Shallow_convolutional_NN_for_image_classification/assets/83825004/70760d8f-091e-40d1-96bd-761be85004ab)
+
 
 
 
