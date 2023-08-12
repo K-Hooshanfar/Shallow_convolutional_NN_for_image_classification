@@ -1,1 +1,1 @@
-# Shallow_convolutional_neural_network_for_image_classification
+# Shallow_convolutional_NN_for_image_classification
